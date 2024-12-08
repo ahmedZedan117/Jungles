@@ -19,7 +19,7 @@ li{
 body{
     width: 100%;
     height: 100vh;
-    background-image: url(/Images/pexels-tomfisk-2606532.jpg);
+    background-image: url(Images/pexels-tomfisk-2606532.jpg);
     background-size: cover;
     display: flex;
     justify-content: center;
